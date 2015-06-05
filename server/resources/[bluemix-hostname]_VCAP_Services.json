@@ -1,0 +1,42 @@
+{
+  "MAS" : [ {
+    "name" : "auto-inspection-MAS",
+    "label" : "MAS",
+    "plan" : "Standard",
+    "credentials" : {
+      "admin_url" : "https://mobile.ng.bluemix.net/masui/v1/apps/06f7ff4d-cf98-475d-9229-3bbca6c4bca6"
+    }
+  } ],
+  "Push" : [ {
+    "name" : "auto-inspection-Push",
+    "label" : "Push",
+    "plan" : "Standard",
+    "credentials" : {
+      "url" : "https://mobile.ng.bluemix.net/push/v1/apps/06f7ff4d-cf98-475d-9229-3bbca6c4bca6",
+      "admin_url" : "https://mobile.ng.bluemix.net/pushconsole/v1/apps/06f7ff4d-cf98-475d-9229-3bbca6c4bca6"
+    }
+  } ],
+  "MobileData" : [ {
+    "name" : "auto-inspection-MobileData",
+    "label" : "MobileData",
+    "plan" : "Shared",
+    "credentials" : {
+      "admin_url" : "https://mobile.ng.bluemix.net/dataview/v1/apps/06f7ff4d-cf98-475d-9229-3bbca6c4bca6"
+    }
+  } ],
+  "Mobile Quality Assurance" : [ {
+    "name" : "auto-inspection-Mobile Quality Assurance",
+    "label" : "Mobile Quality Assurance",
+    "plan" : "MobileQualityAssurance",
+    "credentials" : {
+    }
+  } ],
+  "mongolab" : [ {
+    "name" : "MongoLab-8n",
+    "label" : "mongolab",
+    "plan" : "sandbox",
+    "credentials" : {
+      "uri" : "mongodb://IbmCloud_lqiun5ia_6juoatbo_d828r6kj:xwmDBQ7wbUTEfHr0fn_VQdAzXzkX4WsO@ds041180.mongolab.com:41180/IbmCloud_lqiun5ia_6juoatbo"
+    }
+  } ]
+}

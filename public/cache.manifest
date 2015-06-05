@@ -1,0 +1,155 @@
+CACHE MANIFEST
+
+#
+# revision 01
+#
+# root page
+#
+/index.html
+#
+# css
+#
+/css/bootstrap.3.3.2.min.css
+/css/bootstrap-theme.3.3.2.min.css
+/css/jquery-ui.min.css
+/css/style.css
+/css/views.css
+#
+# images
+#
+/images/dashboard-car.png
+/images/favicon.png
+/images/graph-paper.png
+/images/loading.gif
+/images/manheim-logo.png
+/images/qr-scanner.png
+#
+# images: menu icons
+#
+/images/menu-icons/active-dealer-vehicle-info.png
+/images/menu-icons/active-engine-compartment.png
+/images/menu-icons/active-inspection-summary.png
+/images/menu-icons/active-road-test.png
+/images/menu-icons/active-under-vehicle.png
+/images/menu-icons/active-vehicle-exterior.png
+/images/menu-icons/active-vehicle-interior.png
+/images/menu-icons/dealer-vehicle-info.png
+/images/menu-icons/engine-compartment.png
+/images/menu-icons/inspection-summary.png
+/images/menu-icons/road-test.png
+/images/menu-icons/under-vehicle.png
+/images/menu-icons/vehicle-exterior.png
+/images/menu-icons/vehicle-interior.png
+#
+# images: vehicle types
+#
+/images/vehicle-types/convertible.png
+/images/vehicle-types/coupe.png
+/images/vehicle-types/crossover.png
+/images/vehicle-types/electric.png
+/images/vehicle-types/hybrid.png
+/images/vehicle-types/luxury.png
+/images/vehicle-types/sedan.png
+/images/vehicle-types/sports.png
+/images/vehicle-types/suv.png
+/images/vehicle-types/truck.png
+/images/vehicle-types/van.png
+/images/vehicle-types/wagon.png
+#
+# js
+#
+/js/app.js
+/js/bootstrap.js
+/js/main.js
+/js/routes.js
+#
+# controllers
+#
+/js/controllers/authenticateCtrl.js
+/js/controllers/dashboardCtrl.js
+/js/controllers/headerCtrl.js
+/js/controllers/index.js
+/js/controllers/inspectionCtrl.js
+/js/controllers/mainCtrl.js
+/js/controllers/module.js
+/js/controllers/navigationCtrl.js
+/js/controllers/overlayModalCtrl.js
+#
+# directives
+#
+/js/directives/index.js
+/js/directives/module.js
+/js/directives/pageTitleDirective.js
+/js/directives/qrCodeDirective.js
+#
+# lib
+#
+/js/lib/angular.js
+/js/lib/angular-ui-router.js
+/js/lib/bootstrap-ui-0.12.1.min.js
+/js/lib/html5-qr-code-scanner.js
+/js/lib/jquery.1.11.2.min.js
+/js/lib/ng-device-detector.js
+/js/lib/require.js
+/js/lib/requirejs-domready.js
+#
+# lib/qr-code
+#
+/js/lib/qr-code/alignpat.js
+/js/lib/qr-code/bitmat.js
+/js/lib/qr-code/bmparser.js
+/js/lib/qr-code/datablock.js
+/js/lib/qr-code/databr.js
+/js/lib/qr-code/datamask.js
+/js/lib/qr-code/decoder.js
+/js/lib/qr-code/detector.js
+/js/lib/qr-code/errorlevel.js
+/js/lib/qr-code/findpat.js
+/js/lib/qr-code/formatinf.js
+/js/lib/qr-code/gf256.js
+/js/lib/qr-code/gf256poly.js
+/js/lib/qr-code/grid.js
+/js/lib/qr-code/qrcode.js
+/js/lib/qr-code/rsdecoder.js
+/js/lib/qr-code/version.js
+#
+# views
+#
+/views/authenticate.html
+/views/header.html
+/views/modal.html
+/views/navigation.html
+#
+# views/dashboard
+#
+/views/dashboard/dashboard.html
+/views/dashboard/vehicleProgress.html
+/views/dashboard/vehicleReview.html
+#
+# views/inspection
+#
+/views/inspection/dealerVehicleInfo.html
+/views/inspection/inspection.html
+/views/inspection/roadTest.html
+/views/inspection/summary.html
+/views/inspection/underTheVehicle.html
+/views/inspection/vehicleEngine.html
+/views/inspection/vehicleExterior.html
+/views/inspection/vehicleInterior.html
+/views/inspection/vinScanner.html
+#
+# views/inspection/exterior
+#
+/views/inspection/exterior/frontExterior.html
+/views/inspection/exterior/leftFrontExterior.html
+/views/inspection/exterior/leftRearExterior.html
+/views/inspection/exterior/rightFrontExterior.html
+/views/inspection/exterior/rightRearExterior.html
+#
+# views/inspection/interior
+#
+/views/inspection/interior/frontInterior.html
+/views/inspection/interior/leftFrontInterior.html
+/views/inspection/interior/leftRearInterior.html
+/views/inspection/interior/rightFrontInterior.html
+/views/inspection/interior/rightRearInterior.html

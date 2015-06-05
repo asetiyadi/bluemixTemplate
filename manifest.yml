@@ -1,0 +1,15 @@
+applications:
+- services:
+  - AutoInspection-MAS
+  - AutoInspection-Push
+  - AutoInspection-MobileData
+  - AutoInspection-Mobile Quality Assurance
+  - MongoLab-sq
+  disk_quota: 1024M
+  host: autoinspection
+  name: AutoInspection
+  command: node app.js
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 128M
