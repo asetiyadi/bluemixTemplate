@@ -12,4 +12,5 @@ If you already have a development environment set up, get started with these sim
      - App ID: `${app-guid}`
      - App secret: Get from application overview page on your dashboard
      - Route: `${route}` 
-4. Run the app in your mobile emulator
+4. Update manifest.yml
+5. Run the app in your mobile emulator
